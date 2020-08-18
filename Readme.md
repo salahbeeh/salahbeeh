@@ -27,7 +27,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Python" width="26px" src="https://png2.cleanpng.com/sh/e7c1590948258cdc01a3b32d1a6d68ee/L0KzQYm3U8IxN6J9iZH0aYP2gLBuTfFvb51qReZueISwg8r0gv9tNZN3edDtLXB3eLb5TgB6fJl0hp8AYXKzc4GCgslmaWJmT5C8Mki5SYOAVcE2OmI6S6U5OEO5RIqBTwBvbz==/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" />]
-[<img align="left" alt="Anaconda" width="26px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />]
+[<img align="left" alt="Anaconda" width="26px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />](https://www.python.org/)
 [<img align="left" alt="jupyter-notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />](https://jupyter.org/)
 [<img align="left" alt="tensorflow" width="26px" src="https://png2.cleanpng.com/sh/6d4a96efa8987c243ed9b71d6c7ed69d/L0KzQYm3VMA5N5N3iZH0aYP2gLBuTgRmdqR0ith1b4ewdLbskL1tbZJ3htt3Zz3udcPok71uaZRtgdDuLXzoccP1if5oNZRmReZxdX3lhLLqi702aZQAeasBM3W1RYnqUr40P2Q7S6s8OUG4QoS4VsU2O2oASqk6LoDxd1==/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a963e258c2.3736393915231655399271.png" />](https://www.tensorflow.org/)
 [<img align="left" alt="keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io/)
