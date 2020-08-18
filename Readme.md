@@ -1,10 +1,11 @@
 ### Hi there, I'm Salah 👋
 
+![banner](https://github.com/salahbeeh/salahbeeh/blob/master/banner.png?raw=true)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lahabeeh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%lahabeeh&screen_name=lahabeeh)
 
 
-- 🔭 I’m currently working on an NLP project!
+- 🔭 I’m currently working on a NLP project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other ML geeks
 - 🥅 2020 Goals: Contribute more to Open Source projects
