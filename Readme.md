@@ -22,24 +22,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
-[<img align="left" alt="Python" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw2XjcRyFswFgMjvgc6PpQ59&ust=1597846175491000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjytIH3pOsCFQAAAAAdAAAAABAD" />][python]
-[<img align="left" alt="Anaconda" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FioiwbRx_anaconda-python-icon-hd-png-download%2F&psig=AOvVaw01x9WlgytVIcmBsGcD2A1Y&ust=1597846318265000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDm3MT3pOsCFQAAAAAdAAAAABAD" />][Anaconda]
-[<img align="left" alt="jupyter-notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FioiwJxR_jupyter-notebook-logo-transparent-hd-png-download%2F&psig=AOvVaw3sjFfi-ZqS3qewEI5Nt-dM&ust=1597846396374000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiYxer3pOsCFQAAAAAdAAAAABAD" />][jupyter-notebook]
-[<img align="left" alt="tensorflow" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.m.wikipedia.org%2Fwiki%2F%25D9%2585%25D9%2584%25D9%2581%3ATensorflow_logo.svg&psig=AOvVaw1Qq7mvCF7DxXXGvELjyNcT&ust=1597846572270000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjwh8P4pOsCFQAAAAAdAAAAABAD" />][Tensorflow]
-[<img align="left" alt="keras" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fae.linkedin.com%2Fcompany%2Fkeras&psig=AOvVaw1EIvryCs1TPKIEiTruvumk&ust=1597846648608000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDcv-T4pOsCFQAAAAAdAAAAABAD" />][keras]
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Python" width="26px" src="https://png2.cleanpng.com/sh/e7c1590948258cdc01a3b32d1a6d68ee/L0KzQYm3U8IxN6J9iZH0aYP2gLBuTfFvb51qReZueISwg8r0gv9tNZN3edDtLXB3eLb5TgB6fJl0hp8AYXKzc4GCgslmaWJmT5C8Mki5SYOAVcE2OmI6S6U5OEO5RIqBTwBvbz==/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" />]
+[<img align="left" alt="Anaconda" width="26px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />]
+[<img align="left" alt="jupyter-notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />](https://jupyter.org/)
+[<img align="left" alt="tensorflow" width="26px" src="https://png2.cleanpng.com/sh/6d4a96efa8987c243ed9b71d6c7ed69d/L0KzQYm3VMA5N5N3iZH0aYP2gLBuTgRmdqR0ith1b4ewdLbskL1tbZJ3htt3Zz3udcPok71uaZRtgdDuLXzoccP1if5oNZRmReZxdX3lhLLqi702aZQAeasBM3W1RYnqUr40P2Q7S6s8OUG4QoS4VsU2O2oASqk6LoDxd1==/kisspng-tensorflow-deep-learning-keras-machine-learning-ca-thumbtack-5ac9a963e258c2.3736393915231655399271.png" />](https://www.tensorflow.org/)
+[<img align="left" alt="keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />](https://keras.io/)
+[<img align="left" alt="AWS" width="26px" src="https://png2.cleanpng.com/sh/3bb5705ab9be862c785ceb67ebed14cc/L0KzQYm3VsAyN6V1hJH0aYP2gLBuTfFuaat0hp9CZXKwg7b5lvlkbaQyed9qenBxPbT2jb1kdJD6fJ9sb33zhcXwjvcudZpoReVucobogn68gsExbpJpe6M7NUK5Q3AAUsk3O2EASKMAMke7Q4q7VcIxP2Y2RuJ3Zx==/kisspng-amazon-web-services-amazon-com-cloud-computing-mic-server-5b10fadc125263.7296309015278394520751.png" />](https://aws.amazon.com/)
+[<img align="left" alt="atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" />](https://atom.io/)
 
 <br />
 <br />
 
 ---
+![Mohammed Salah's github stats](https://github-readme-stats.vercel.app/api?username=salahbeeh&show_icons=true&theme=dark)
 
-
-
-<summary>:zap: Github Stats</summary>
-
-<img align="left" alt="salahbeeh's Github Stats" src="https://github-readme-stats.salahbeeh.vercel.app/api?username=salahbeeh&show_icons=true&hide_border=true" />
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salahbeeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
