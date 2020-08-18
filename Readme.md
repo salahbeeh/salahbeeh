@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="abo.salah.940098 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="lahabeeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mohammadelghrably | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="salahbeeh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="abo.salah.940098 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][https://www.facebook.com/abo.salah.940098]
+[<img align="left" alt="lahabeeh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/lahabeeh]
+[<img align="left" alt="mohammadelghrably | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/mohammadelghrably/]
+[<img align="left" alt="salahbeeh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/salahbeeh/]
 
 <br />
 
