@@ -24,8 +24,8 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 [<img align="left" alt="Python" width="26px" src="https://png2.cleanpng.com/sh/e7c1590948258cdc01a3b32d1a6d68ee/L0KzQYm3U8IxN6J9iZH0aYP2gLBuTfFvb51qReZueISwg8r0gv9tNZN3edDtLXB3eLb5TgB6fJl0hp8AYXKzc4GCgslmaWJmT5C8Mki5SYOAVcE2OmI6S6U5OEO5RIqBTwBvbz==/kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7.3286927515215330836498.png" />](https://www.python.org/)
 [<img align="left" alt="Anaconda" width="26px" src="https://nektony.com/wp-content/uploads/2018/05/where-is-anaconda-located.png" />](https://www.anaconda.com/)
 [<img align="left" alt="jupyter-notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />](https://jupyter.org/)
